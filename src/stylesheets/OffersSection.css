@@ -1,0 +1,36 @@
+.OffersSection {
+  background-color: white;
+  overflow: hidden;
+}
+
+.OffersSection .card {
+  border: none;
+}
+
+.OffersSection h2 {
+  font-family: 'Prata', serif;
+
+  font-size: 45px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  color: #404040;
+}
+
+.OffersSection h2 span {
+  color: #f8901a;
+}
+
+ @media (max-width: 1068px) {
+  .OffersSection .slick-arrow {
+    display: none !important;
+  }
+}

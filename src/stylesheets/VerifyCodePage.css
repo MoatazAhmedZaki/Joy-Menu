@@ -1,0 +1,23 @@
+.VerifyCodePage {
+  background-color: #fafafa;
+  min-height: 80vh;
+}
+
+.VerifyCodePage .verify-tilte {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 22px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.91;
+
+  letter-spacing: normal;
+  text-transform: uppercase;
+
+  color: #f8901a;
+}

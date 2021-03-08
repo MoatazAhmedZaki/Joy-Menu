@@ -1,0 +1,7 @@
+.MyFollowingItem button,
+.MyFollowingItem button:hover {
+  background-color: #5e5e5e;
+  color: white;
+  border: none;
+  border-radius: 30px;
+}

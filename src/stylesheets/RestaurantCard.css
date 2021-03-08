@@ -1,0 +1,31 @@
+.RestaurantCard {
+  border: solid 1px #d8d8d8;
+
+  background-color: #ffffff;
+}
+
+
+
+.RestaurantCard .card-title {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.38;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #5e5e5e;
+}
+
+
+
+

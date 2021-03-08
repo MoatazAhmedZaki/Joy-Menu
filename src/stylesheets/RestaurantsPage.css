@@ -1,0 +1,33 @@
+.RestaurantsPage {
+  background-color: #fafafa;
+}
+
+.RestaurantsPage .search-bar .input-group-prepend .input-group-text {
+  background-color: white;
+  border: none;
+}
+
+.RestaurantsPage .search-bar .form-control {
+  border: none;
+  box-shadow: none;
+}
+
+.RestaurantsPage .page-item .page-link {
+  margin: 0 5px;
+  border-radius: 50%;
+  border: none;
+  color: black;
+  /* padding: 0.75rem; */
+
+}
+
+
+.RestaurantsPage .page-item:first-child .page-link,
+.RestaurantsPage .page-item:last-child .page-link {
+  border: solid 1px #94c748;
+}
+
+.RestaurantsPage .page-item.active .page-link {
+  color: white;
+  background-color: #94c748;
+}

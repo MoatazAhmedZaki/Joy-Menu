@@ -1,0 +1,72 @@
+/* HIDE RADIO */
+.PaymentMethod [type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+  /* border: 1px solid transparent; */
+}
+
+/* IMAGE STYLES */
+.PaymentMethod [type="radio"] + img {
+  cursor: pointer;
+  border: 1px solid #cecece;
+  border-radius: 5px;
+}
+
+.PaymentMethod [type="radio"] + p {
+  cursor: pointer;
+  border: 1px solid #cecece;
+  border-radius: 5px;
+}
+
+/* CHECKED STYLES */
+.PaymentMethod [type="radio"]:checked + img {
+  /* outline: 2px solid #f8901a; */
+  /* border-radius: 3px; */
+  /* outline-radius: 25px; */
+
+  /* box-shadow: 0 0 3pt 2pt #f8901a; */
+  border-radius: 5px;
+  border: 1px solid #f8901a;
+}
+
+.PaymentMethod [type="radio"]:checked + p {
+  /* outline: 2px solid #f8901a; */
+  border-radius: 3px;
+  border: 1px solid #f8901a;
+  /* outline-radius: 25px; */
+
+  /* box-shadow: 0 0 3pt 2pt #f8901a; */
+}
+
+.PaymentMethod .form-control {
+  background-color: #f0f0f0;
+}
+
+.PaymentMethod .form-control:focus {
+  background-color: white;
+  box-shadow: none;
+  border: 1px solid #94c748;
+}
+
+.myrasta-stripes {
+  background-color: red;
+}
+
+.red-border {
+  border: 1px solid red;
+}
+
+/* 
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 100%;
+} */
+
+.react-datepicker-popper {
+  position: relative;
+}

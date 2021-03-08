@@ -1,0 +1,48 @@
+.BrowseSection h2 {
+  font-family: 'Prata', serif;
+
+  font-size: 45px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  color: #404040;
+}
+
+.BrowseSection h2 span {
+  color: #f8901a;
+}
+
+.BrowseSection .sub-title {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 20px;
+
+  color: #898989;
+  text-transform: uppercase;
+}
+.BrowseSection p {
+  font-family: "Open Sans", sans-serif;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #414040;
+  margin-bottom: 0;
+}

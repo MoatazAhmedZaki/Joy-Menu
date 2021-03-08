@@ -1,0 +1,194 @@
+.MyOrder {
+  overflow: hidden;
+}
+
+.order-statu .stage-title {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #5e5e5e;
+}
+.order-statu .active .stage {
+  width: 43px;
+  position: relative;
+  z-index: 5;
+  height: 43px;
+  border-radius: 50%;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  border: solid 1px #94c748;
+  color: #94c748;
+}
+
+.order-statu .stage {
+  width: 43px;
+  position: relative;
+  z-index: 1;
+  height: 43px;
+  border-radius: 50%;
+  background-color: #e8e8e8;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+.stage:after {
+  position: absolute;
+  z-index: -1;
+
+  content: "";
+  top: 20px;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 2px;
+  background-color: #fafafa;
+}
+
+.add-remove-btn {
+  border-radius: 14px;
+  width: fit-content;
+  border: solid 1px #ececec;
+
+  background-color: #ffffff;
+}
+
+.add-remove-btn button,
+.add-remove-btn button:hover {
+  background-color: transparent;
+  color: #f8901a;
+  border: none;
+}
+
+.exit-btn,
+.exit-btn:hover {
+  background-color: transparent;
+  color: #b6b6b6;
+  border: none;
+}
+
+.lower .my-order {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 22px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.27;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #241d1d;
+}
+
+.lower .item-name {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 17px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  /* line-height: 1.65; */
+
+  letter-spacing: normal;
+
+  color: #241d1d;
+}
+
+.lower .item-price {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 17px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  /* line-height: 1.67; */
+
+  letter-spacing: normal;
+
+  color: #636363;
+}
+
+.lower .fees {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 17px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.65;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #636363;
+}
+
+.lower .total-fees {
+  font-weight: bold;
+  color: black;
+}
+
+.lower .add-comment-order .form-control {
+  background-color: #f0f0f0;
+}
+.lower .add-comment-order .form-control:focus {
+  background-color: white;
+  box-shadow: none;
+  border: 1px solid #94c748;
+}
+.lower .proceed-to-checkout-btn,
+.lower .proceed-to-checkout-btn:hover,
+.lower .proceed-to-checkout-btn:focus,
+.btn-primary:not(:disabled):not(.disabled):active {
+  background-color: #94c748;
+  box-shadow: unset;
+  border: none;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+  .column-reverse {
+    -ms-flex-direction: column-reverse !important;
+    flex-direction: column-reverse !important;
+  }
+}

@@ -1,0 +1,89 @@
+.JoinUsSection {
+  background-color: #fff7ee;
+}
+.JoinUsSection h2 {
+  font-family: 'Prata', serif;
+
+  font-size: 45px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  color: #404040;
+}
+
+.JoinUsSection h2 span {
+  color: #f8901a;
+}
+
+.JoinUsSection {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.67;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #2e2e2e;
+}
+
+.joinUs-card {
+  border-radius: 30px;
+
+  background-color: #ffffff;
+}
+
+.joinUs-card h3 {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 35px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.86;
+
+  letter-spacing: normal;
+
+  color: #2e2e2e;
+  text-transform: uppercase;
+}
+
+.joinUs-card p {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.67;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #2e2e2e;
+}

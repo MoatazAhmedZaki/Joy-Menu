@@ -1,0 +1,25 @@
+footer {
+  background-color: #242424;
+  color: white;
+}
+
+footer a{color: white; display: block;}
+footer a:hover{color: white; text-decoration: none;}
+
+
+footer h6 {
+  font-weight: 700;
+
+  font-family: "Montserrat", sans-serif;
+}
+
+footer p {
+  font-weight: 400;
+
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+
+footer button {  background-color: #94c748!important; border: none!important;}
+
+footer .border-top{ border-top: 1px solid rgba(36,36,36,.1);}

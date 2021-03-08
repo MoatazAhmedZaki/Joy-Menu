@@ -1,0 +1,65 @@
+.SignIn-form .forget-btn {   font-family: 'Open Sans', sans-serif;;
+
+
+font-size: 15px;
+
+font-weight: normal;
+
+font-stretch: normal;
+
+font-style: normal;
+
+line-height: 1.33;
+
+letter-spacing: normal;
+
+text-align: left;
+
+color: #f8901a;
+
+cursor: pointer;
+}
+
+
+.SignIn-form .signin-btn{ width: 80%;  background-color: #94c748; margin: auto; border: none;
+
+    font-family: 'Open Sans', sans-serif;;
+    font-size: 20px;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1;
+  
+    letter-spacing: normal;
+  
+    text-align: center;
+  
+    color: #ffffff;
+    text-transform: uppercase;
+
+}
+
+
+.facebook-btn ,.google-btn{width: 100%}
+
+
+
+.facebook-btn, .facebook-btn:hover {
+  background-color: #3b5998;
+  border: 1px solid #3b5998;
+  color: white;
+}
+
+.google-btn , .google-btn:hover{
+  background-color: #cb4023;
+  border: 1px solid  #cb4023;
+} 
+
+
+.or-hr{position: relative;}
+
+.or-hr::after{ content:"OR" ; text-align: center;position: absolute; top:8px; right: 0; bottom: 0; left: 0; width: 60px; height: 40px; margin: auto; background-color: white;}

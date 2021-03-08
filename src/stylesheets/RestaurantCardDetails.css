@@ -1,0 +1,379 @@
+.RestaurantCardDetails .upper {
+  background-color: #fafafa;
+}
+
+.RestaurantCardDetails .upper .rest-name {
+  font-family: "Open Sans", sans-serif;
+
+  text-transform: uppercase;
+  font-size: 40px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: normal;
+
+  color: #5e5e5e;
+}
+.RestaurantCardDetails .upper .rest-type {
+  opacity: 0.66;
+
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: normal;
+
+  color: #5e5e5e;
+}
+
+.RestaurantCardDetails .upper .rest-location,
+.RestaurantCardDetails .upper .rest-hour,
+.RestaurantCardDetails .upper .rest-distance {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: normal;
+
+  color: #5e5e5e;
+}
+
+.RestaurantCardDetails .upper button,
+.RestaurantCardDetails .upper button:hover {
+  border-radius: 28px;
+
+  background-color: #94c748;
+  border: none;
+}
+
+.RestaurantCardDetails .upper .icons {
+  color: #5e5e5e;
+}
+
+.RestaurantCardDetails .lower2  ,.RestaurantCardDetails .lower{
+  background-color: white;
+  border: solid 1px #cecece;
+}
+/* 
+.RestaurantCardDetails .lower2 ul li {
+  text-align: center;
+  padding: 20px 0;
+  margin: 0 20px;
+  list-style: none;
+  text-transform: uppercase;
+} */
+
+/* .RestaurantCardDetails .lower2 ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  overflow-x: auto;
+} */
+
+.lower .nav::-webkit-scrollbar {
+  height: 4px;
+  /* width: 40px; */
+}
+
+.lower .nav::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.lower .nav::-webkit-scrollbar-thumb {
+  background-color: #f8901a;
+  /* outline: 1px solid #f8901a;; */
+}
+
+/* .RestaurantCardDetails .lower2.myli {
+    text-align: center;
+  padding: 20px 0 ;
+  margin:0  20px;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+.RestaurantCardDetails .lower2 .myul {
+    width: 100%;
+  display: flex;
+  justify-content: space-between;
+  overflow-x: auto;
+} */
+
+.RestaurantCardDetails .nav {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.RestaurantCardDetails .nav .nav-item {
+  padding: 20px 0;
+  margin: 0 10px;
+  text-transform: uppercase;
+}
+
+.RestaurantCardDetails .sub-menu .nav-link {
+  font-family: "Open Sans", sans-serif;
+
+  text-transform: uppercase;
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #525252;
+}
+
+.RestaurantCardDetails .sub-menu .nav-link.active {
+  border-radius: 26px;
+  color: white;
+  background-color: #f8901a;
+}
+.RestaurantCardDetails .sub-menu .nav-item {
+  flex-basis: 217px;
+  /* width: 233px; */
+  text-align: center;
+}
+
+.RestaurantCardDetails .sub-menu .nav-item {
+  flex-basis: 217px;
+  /* width: 233px; */
+  text-align: center;
+}
+
+.RestaurantCardDetails .main-menu .nav-item {
+  flex-basis: 217px;
+  /* width: 233px; */
+  text-align: center;
+}
+/* .RestaurantCardDetails .main-menu, .RestaurantCardDetails .sub-menu{border-bottom: 1px solid #cecece;} */
+
+
+.RestaurantCardDetails .main-menu .nav-link {
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.91;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #5e5e5e;
+}
+
+.RestaurantCardDetails .main-menu .nav-link.active {
+  background-color: #ececec;
+  font-size: 22px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.91;
+
+  letter-spacing: normal;
+
+  color: #f8901a;
+}
+
+.RestaurantCardDetails .main-menu .nav-link {
+  padding: 20px 5px;
+}
+
+.RestaurantCardDetails .main-menu .nav-link.active {
+  position: relative;
+}
+
+.RestaurantCardDetails .main-menu .nav-link.active:after {
+  position: absolute;
+  font-family: "Font Awesome 5 Free";
+  content: "\f0dd";
+  bottom: -9px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  color: #ececec;
+}
+
+.RestaurantCardDetails .tab-content {
+  min-height: 50vh;
+}
+
+.RestaurantCardDetails .tab-content h2 {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 30px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.67;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #241d1d;
+}
+
+
+
+
+.mymenu{
+
+position: relative!important
+
+}
+
+
+.mymenu:before{content: attr(number)!important;
+  position: absolute!important;;
+  background-color: #94c748;
+  border-radius: 50%;
+  width: 20px;
+
+  height: 20px;
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #ffffff;
+  top: 2px;
+  right: 2px;
+}
+
+
+.mymenu span {
+  background-color: #94c748;
+  border-radius: 50%;
+  width: 28px;
+
+  height: 28px;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+
+
+.lower2 .item-name {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2;
+
+  letter-spacing: normal;
+
+
+  color: #241d1d;
+}
+
+.lower2 .item-price {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2;
+
+  letter-spacing: normal;
+
+
+  color: #636363;}
+
+.lower2 .fees {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #636363;
+}
+
+.lower2 .total-fees {
+  font-weight: bold;
+  color: black;
+}
+

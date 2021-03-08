@@ -1,0 +1,80 @@
+.VerifyCode {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.VerifyCode .main-form-text {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 15px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #898989;
+}
+
+.VerifyCode .form-control:focus {
+  text-align: center;
+
+  border-radius: 15px;
+
+  border: solid 2px #94c748;
+
+  background-color: #ffffff;
+  color: #94c748;
+}
+
+.VerifyCode .form-control {
+  text-align: center;
+
+  border-radius: 15px;
+
+  border: solid 2px #c3c3c3;
+
+  background-color: #ffffff;
+  color: #c3c3c3;
+}
+
+.VerifyCode button,
+.VerifyCode button:hover {
+  background-color: #94c748;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+}
+
+.VerifyCode .resend-text {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 15px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #898989;
+}
+
+.resend-btn,
+.resend-btn:hover {
+  color: #94c748;
+  text-decoration: underline;
+}

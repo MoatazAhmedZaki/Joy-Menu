@@ -1,0 +1,16 @@
+{
+  "AR": {
+    "HomeLink": "الرئيسية",
+    "AllRestaurantLink": " كل المطاعم ",
+    "OffersLink": " العروض",
+    "BecomeAPartnerLink": " شيريك ",
+    "Login": "دخول / مستخدم جديد"
+  },
+  "EN": {
+    "HomeLink": " Home",
+    "AllRestaurantLink": "All Restaurant",
+    "OffersLink": "Offers",
+    "BecomeAPartnerLink": " Become A Partner",
+    "Login": "Log in / Log up"
+  }
+}

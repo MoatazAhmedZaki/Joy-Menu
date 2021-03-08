@@ -1,0 +1,100 @@
+.ProfilePage {
+  background-color: #fafafa;
+  min-height: 80vh;
+}
+
+.ProfilePage .setting-holder {
+  background-color: white;
+}
+
+.ProfilePage .setting-holder {
+  border: 1px solid #cecece;
+}
+
+.ProfilePage .nav-pills .nav-link {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+  border-radius: unset;
+  border-bottom: 1px solid#cecece;
+  color: #444444;
+  background-color: #ffffff;
+}
+
+.ProfilePage .nav-pills .nav-link.active,
+.ProfilePage .nav-pills .show > .nav-link {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  color: #f8901a;
+}
+
+/* .ProfilePage .nav-pills{border: 1px solid #cecece;} */
+
+.noti-numb {
+  width: 23px;
+  border-radius: 50%;
+  height: 23px;
+  text-align: center;
+  padding-bottom: 30px;
+  background-color: #f8901a;
+  color: white;
+}
+
+.ProfilePage .profile-name {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 40px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: normal;
+
+  color: #5e5e5e;
+  text-transform: uppercase;
+}
+
+.ProfilePage .profile-location {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #5e5e5e;
+}
+
+.ProfilePage .profile-logout-btn {
+  color: #5e5e5e;
+}

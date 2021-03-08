@@ -1,0 +1,128 @@
+.MyOrdersitemDetails {
+  background-color: #fafafa;
+}
+.MyOrdersitemDetails h2 {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 22px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.82;
+
+  letter-spacing: normal;
+
+  color: #525252;
+}
+
+.MyOrdersitemDetails h3 {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 22px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: normal;
+
+  color: #525252;
+}
+
+.MyOrdersitemDetails .cancel-order-btn,
+.MyOrdersitemDetails .cancel-order-btn:hover {
+  color: white;
+  background-color: #f81a1a;
+  border: none;
+}
+
+.MyOrdersitemDetails h2 span {
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.82;
+
+  letter-spacing: normal;
+
+  color: #525252;
+}
+
+.order-status {
+  padding-top: 4px;
+  width: 74px;
+  text-align: center;
+  color: white;
+  height: 30px;
+
+  border-radius: 4px;
+
+  background-color: #23d440;
+}
+
+.MyOrdersitemDetails .holder {
+  background-color: white;
+}
+
+.MyOrdersitemDetails .item-name {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 17px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.65;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #241d1d;
+}
+
+.MyOrdersitemDetails .fees {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 17px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.65;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #636363;
+}
+
+.MyOrdersitemDetails .total-fees {
+  font-weight: bold;
+}
+
+.cancel-modal-btn,
+.cancel-modal-btn:hover {
+  border: none;
+  color: white;
+  background-color: #94c748;
+  text-transform: uppercase;
+  width: 100%;
+}

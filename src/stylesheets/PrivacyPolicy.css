@@ -1,0 +1,51 @@
+.PrivacyPolicy {
+  background-color: #fafafa;
+  min-height: 80vh;
+}
+
+.parg-holder {
+  background-color: white;
+  border-radius: 15px;
+  border: solid 1px #c6c6c6;
+}
+
+.PrivacyPolicy h2 {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 25px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.36;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #2d2c2c;
+  text-transform: uppercase;
+}
+
+.PrivacyPolicy p {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.67;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #5e5e5e;
+}

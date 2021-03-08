@@ -1,0 +1,18 @@
+.navbar-brand {
+  width: 80px;
+}
+
+.navbar-brand img {
+  width: 80px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+
+    color: #f8901a;
+}
+
+
+.navbar-light{background-color: white!important;}

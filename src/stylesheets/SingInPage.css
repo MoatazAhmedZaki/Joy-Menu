@@ -1,0 +1,34 @@
+.SingInPage {
+  background-color: #fafafa;
+  min-height: 50vh;
+}
+
+.SingInPage .sign-card {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.SingInPage .nav-pills .nav-link {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 22px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.91;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #898989;
+  text-transform: uppercase;
+}
+.SingInPage .nav-pills .nav-link.active {
+  background-color: transparent;
+  color: #f8901a;
+}

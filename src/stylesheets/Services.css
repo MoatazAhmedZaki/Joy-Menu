@@ -1,0 +1,80 @@
+.Services h2 {
+  font-family: 'Prata', serif;
+
+  font-size: 45px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  color: #404040;
+}
+
+.Services h2 span {
+  color: #f8901a;
+}
+
+.Services p {
+  font-family: 'Open Sans', sans-serif;;
+
+  font-size: 20px;
+
+  color: #898989;
+}
+
+.Services h3 {
+  font-family: 'Open Sans', sans-serif;;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #94c748;
+  text-transform: uppercase;
+}
+
+.Services p small {
+  font-family: 'Open Sans', sans-serif;;
+
+  font-size: 20px;
+
+  color: #898989;
+}
+
+.Services p {
+  font-family: 'Open Sans', sans-serif;;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.67;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #2e2e2e;
+  text-transform: uppercase;
+
+}
