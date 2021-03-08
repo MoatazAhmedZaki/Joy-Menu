@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Joy-Menu/static/css/main.ef3031e8.chunk.css",
+    "main.js": "/Joy-Menu/static/js/main.1dd6143e.chunk.js",
+    "main.js.map": "/Joy-Menu/static/js/main.1dd6143e.chunk.js.map",
+    "runtime-main.js": "/Joy-Menu/static/js/runtime-main.99dc3767.js",
+    "runtime-main.js.map": "/Joy-Menu/static/js/runtime-main.99dc3767.js.map",
+    "static/css/2.25ff2e5b.chunk.css": "/Joy-Menu/static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.139723ce.chunk.js": "/Joy-Menu/static/js/2.139723ce.chunk.js",
+    "static/js/2.139723ce.chunk.js.map": "/Joy-Menu/static/js/2.139723ce.chunk.js.map",
+    "index.html": "/Joy-Menu/index.html",
+    "precache-manifest.c1398bad3c2dddb8216670914913541a.js": "/Joy-Menu/precache-manifest.c1398bad3c2dddb8216670914913541a.js",
+    "service-worker.js": "/Joy-Menu/service-worker.js",
+    "static/css/2.25ff2e5b.chunk.css.map": "/Joy-Menu/static/css/2.25ff2e5b.chunk.css.map",
+    "static/css/main.ef3031e8.chunk.css.map": "/Joy-Menu/static/css/main.ef3031e8.chunk.css.map",
+    "static/media/AboutUsPage.css": "/Joy-Menu/static/media/AboutHeader.9b698dc6.png",
+    "static/media/ContactUsPage.css": "/Joy-Menu/static/media/ContactHeader.ca12945f.png",
+    "static/media/HomeHeader.css": "/Joy-Menu/static/media/HomeHeader.5a9914a3.png",
+    "static/media/JoyMob.png": "/Joy-Menu/static/media/JoyMob.4c3c4cb7.png",
+    "static/media/Logo.png": "/Joy-Menu/static/media/Logo.bc517d7f.png",
+    "static/media/desh.png": "/Joy-Menu/static/media/desh.45c8b7c0.png",
+    "static/media/enjoy.png": "/Joy-Menu/static/media/enjoy.76c33bfa.png",
+    "static/media/offer.png": "/Joy-Menu/static/media/offer.2ca67242.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99dc3767.js",
+    "static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.139723ce.chunk.js",
+    "static/css/main.ef3031e8.chunk.css",
+    "static/js/main.1dd6143e.chunk.js"
+  ]
+}
